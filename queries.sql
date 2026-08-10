@@ -1,7 +1,15 @@
+ -- ============================================================
+-- 1. DATABASE EXPLORATION
+-- ============================================================
+
 EXEC sp_help Patients;
 EXEC sp_columns Patients;
 EXEC SP_COLUMNS  DOCTORS;
 EXEC SP_COLUMNS appointments;
+-- ============================================================
+-- 2. BASIC DATA EXPLORATION
+-- ============================================================
+
 SELECT * FROM appointments;
 select * from doctors;
 
