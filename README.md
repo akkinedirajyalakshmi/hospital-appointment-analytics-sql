@@ -92,6 +92,13 @@ patient, department, and appointment status information.
 - OVER()
 
 ---
+## How I Used AI
+- Tool: Claude
+- Used it for: explaining concepts, helping write queries, and debugging errors
+- How I checked it: I ran every query myself and compared the results with the source tables
+- One thing Claude got wrong: one of its queries gave an error when I ran it. I read the error, found the cause, fixed the query, and re-ran it to confirm the results
+
+---
 
 ## Key Insights
 
